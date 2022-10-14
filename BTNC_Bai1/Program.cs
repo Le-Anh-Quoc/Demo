@@ -14,6 +14,7 @@ namespace BTNC_Bai1
             Console.WriteLine("Nhap c: ");
             c = double.Parse(Console.ReadLine());
             //Nhap a, b, c
+            //Tinh nang
             if (a == 0)
             {
                 if (b == 0)
