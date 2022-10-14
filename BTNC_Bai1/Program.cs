@@ -40,7 +40,7 @@ namespace BTNC_Bai1
                 } else if (delta == 0)
                 {
                     double x = -(b / (2 * a));
-                    Console.WriteLine("Phuong trinh co nghiem kep la: ", x);
+                    Console.WriteLine("Phuong trinh co nghiem doi la: ", x);
                 } else
                 {
                     double x1 = (-b + Math.Sqrt(delta)) / (2 * a);
