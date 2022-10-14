@@ -13,7 +13,7 @@ namespace BTNC_Bai1
             b = double.Parse(Console.ReadLine());
             Console.WriteLine("Nhap c: ");
             c = double.Parse(Console.ReadLine());
-
+            //Nhap a, b, c
             if (a == 0)
             {
                 if (b == 0)
