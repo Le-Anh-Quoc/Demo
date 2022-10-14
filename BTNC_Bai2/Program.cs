@@ -9,6 +9,7 @@ namespace BTNC_Bai2
             Console.WriteLine("Nhap chieu cao cua tam giac can: ");
             int h = int.Parse(Console.ReadLine());
             int i = 1, v = 1;
+            //tach code ra de nhin
             while (i <= h)
             {
                 for (int j = 1; j <= h - i; j++)
