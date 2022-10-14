@@ -1,0 +1,14 @@
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\bin\Debug\netcoreapp3.1\BTVN_Bai1.exe
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\bin\Debug\netcoreapp3.1\BTVN_Bai1.deps.json
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\bin\Debug\netcoreapp3.1\BTVN_Bai1.runtimeconfig.json
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\bin\Debug\netcoreapp3.1\BTVN_Bai1.runtimeconfig.dev.json
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\bin\Debug\netcoreapp3.1\BTVN_Bai1.dll
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\bin\Debug\netcoreapp3.1\BTVN_Bai1.pdb
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\obj\Debug\netcoreapp3.1\BTVN_Bai1.csproj.AssemblyReference.cache
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\obj\Debug\netcoreapp3.1\BTVN_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\obj\Debug\netcoreapp3.1\BTVN_Bai1.AssemblyInfoInputs.cache
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\obj\Debug\netcoreapp3.1\BTVN_Bai1.AssemblyInfo.cs
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\obj\Debug\netcoreapp3.1\BTVN_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\obj\Debug\netcoreapp3.1\BTVN_Bai1.dll
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\obj\Debug\netcoreapp3.1\BTVN_Bai1.pdb
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTVN_Bai1\obj\Debug\netcoreapp3.1\BTVN_Bai1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\bin\Debug\netcoreapp3.1\BTTL_Bai6.exe
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\bin\Debug\netcoreapp3.1\BTTL_Bai6.deps.json
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\bin\Debug\netcoreapp3.1\BTTL_Bai6.runtimeconfig.json
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\bin\Debug\netcoreapp3.1\BTTL_Bai6.runtimeconfig.dev.json
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\bin\Debug\netcoreapp3.1\BTTL_Bai6.dll
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\bin\Debug\netcoreapp3.1\BTTL_Bai6.pdb
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\obj\Debug\netcoreapp3.1\BTTL_Bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\obj\Debug\netcoreapp3.1\BTTL_Bai6.AssemblyInfoInputs.cache
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\obj\Debug\netcoreapp3.1\BTTL_Bai6.AssemblyInfo.cs
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\obj\Debug\netcoreapp3.1\BTTL_Bai6.csproj.CoreCompileInputs.cache
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\obj\Debug\netcoreapp3.1\BTTL_Bai6.dll
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\obj\Debug\netcoreapp3.1\BTTL_Bai6.pdb
+C:\Users\leanh\source\repos\LaptrinhWin\LAB01_LeAnhQuoc_47.01.104,174\BTTL_Bai6\obj\Debug\netcoreapp3.1\BTTL_Bai6.genruntimeconfig.cache
