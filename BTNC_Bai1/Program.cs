@@ -42,6 +42,7 @@ namespace BTNC_Bai1
                     double x = -(b / (2 * a));
                     Console.WriteLine("Phuong trinh co nghiem kep la: ", x);
                     //Phuong trinh co nghiem kep la
+                    //khong can comment nay dau
                 } else
                 {
                     double x1 = (-b + Math.Sqrt(delta)) / (2 * a);
