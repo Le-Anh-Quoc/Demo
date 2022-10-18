@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTTL_Bai7\\BTTL_Bai7.csproj",
+      "projectUniqueName": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTTL_Bai7\\BTTL_Bai7.csproj",
       "projectName": "BTTL_Bai7",
-      "projectPath": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTTL_Bai7\\BTTL_Bai7.csproj",
+      "projectPath": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTTL_Bai7\\BTTL_Bai7.csproj",
       "packagesPath": "C:\\Users\\leanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTTL_Bai7\\obj\\",
+      "outputPath": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTTL_Bai7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leanh\\AppData\\Roaming\\NuGet\\NuGet.Config",

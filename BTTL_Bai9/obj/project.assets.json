@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTTL_Bai9\\BTTL_Bai9.csproj",
+      "projectUniqueName": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTTL_Bai9\\BTTL_Bai9.csproj",
       "projectName": "BTTL_Bai9",
-      "projectPath": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTTL_Bai9\\BTTL_Bai9.csproj",
+      "projectPath": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTTL_Bai9\\BTTL_Bai9.csproj",
       "packagesPath": "C:\\Users\\leanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTTL_Bai9\\obj\\",
+      "outputPath": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTTL_Bai9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTTL_Bai10\\BTTL_Bai10.csproj": {
-              "projectPath": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTTL_Bai10\\BTTL_Bai10.csproj"
+            "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTTL_Bai10\\BTTL_Bai10.csproj": {
+              "projectPath": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTTL_Bai10\\BTTL_Bai10.csproj"
             }
           }
         }

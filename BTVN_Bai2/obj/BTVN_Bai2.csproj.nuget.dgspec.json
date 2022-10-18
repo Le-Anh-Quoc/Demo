@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTVN_Bai2\\BTVN_Bai2.csproj": {}
+    "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTVN_Bai2\\BTVN_Bai2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTVN_Bai2\\BTVN_Bai2.csproj": {
+    "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTVN_Bai2\\BTVN_Bai2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTVN_Bai2\\BTVN_Bai2.csproj",
+        "projectUniqueName": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTVN_Bai2\\BTVN_Bai2.csproj",
         "projectName": "BTVN_Bai2",
-        "projectPath": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTVN_Bai2\\BTVN_Bai2.csproj",
+        "projectPath": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTVN_Bai2\\BTVN_Bai2.csproj",
         "packagesPath": "C:\\Users\\leanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leanh\\Source\\Repos\\Le-Anh-Quoc\\Demo\\BTVN_Bai2\\obj\\",
+        "outputPath": "C:\\Users\\leanh\\OneDrive\\Desktop\\Demo\\BTVN_Bai2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
